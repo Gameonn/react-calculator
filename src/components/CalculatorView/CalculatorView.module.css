@@ -1,0 +1,23 @@
+.CalculatorView {
+    display: block;
+    width: 500px;
+    margin: auto;
+    padding: 40px 0;
+    background: #ccc;
+}
+
+button {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    background-color: #538fbe;
+    padding: 20px;
+    width: 70px;
+    font-size: 24px;
+    border: 1px solid #2d6898;
+    border-radius: 5px;
+    text-shadow: 0px -1px 0px rgba(0,0,0,.5);
+    box-shadow: 0px 6px 0px #2b638f, 0px 3px 15px rgba(0,0,0,.4), inset 0px 1px 0px rgba(255,255,255,.3), inset 0px 0px 3px rgba(255,255,255,.5);
+    transition: all .2s ease-in-out;
+}
