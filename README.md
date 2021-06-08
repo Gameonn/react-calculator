@@ -2,6 +2,6 @@
 
 Basic calculator for all your calculations.
 
-Check the demo:
+**Check the demo:**
 
 https://hopeful-calculator.netlify.app/
